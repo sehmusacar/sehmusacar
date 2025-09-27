@@ -10,7 +10,7 @@
 - 🌱 I'm learning **Advanced Android Development** and **Kotlin Coroutines**
 - 👯 I'm looking to collaborate on **mobile app projects** and **open source initiatives**
 - 💬 Ask me about **Android, Kotlin, Firebase, Mobile UI/UX**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sehmusacar) | [Email](mailto:sehmusacar@example.com)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sehmusacar) | [Email](mailto:contact.sehmusacar@gmail.com)
 - ⚡ Fun fact: I love creating educational apps that help students succeed in their exams!
 
 ## 🛠️ Tech Stack
@@ -52,25 +52,6 @@ A feature-rich Android application designed to help Turkish students prepare for
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/sehmusacar/sinavbank)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sehmusacar.sinavbank.yks)
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sehmusacar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehmusacar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehmusacar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sehmusacar&theme=tokyonight&hide_border=true" alt="Activity Graph" />
-</div>
 
 ## 🏆 GitHub Trophies
 
@@ -106,7 +87,7 @@ A feature-rich Android application designed to help Turkish students prepare for
   <a href="https://twitter.com/sehmusacar">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:sehmusacar@example.com">
+  <a href="mailto:contact.sehmusacar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/sehmusacar">
@@ -114,15 +95,6 @@ A feature-rich Android application designed to help Turkish students prepare for
   </a>
 </div>
 
-## 📊 Weekly Development Breakdown
-
-```text
-Kotlin        ████████████████████░░░░   80%
-Android       ██████████████████░░░░░   75%
-Firebase      ████████████████░░░░░░░   65%
-Java          ████████████░░░░░░░░░░░   50%
-XML           ██████████░░░░░░░░░░░░░   40%
-```
 
 ## 🎉 Fun Facts
 
