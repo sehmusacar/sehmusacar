@@ -1,4 +1,4 @@
-# Hi there, I'm Sehmus Acar! 👋
+# Hi there, I'm Sehmus Acar 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Android+Developer;Kotlin+Enthusiast;Mobile+App+Creator;Always+Learning+New+Things" alt="Typing SVG" />
@@ -49,15 +49,9 @@ A feature-rich Android application designed to help Turkish students prepare for
 
 **Tech Stack:** Kotlin, Android SDK, Firebase, AdMob, Google Play Billing, Material Design 3
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/sehmusacar/sinavbank)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sehmusacar.sinavbank.yks)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7855561321447072514)
 
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sehmusacar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ## 💡 Random Dev Quote
 
@@ -72,20 +66,12 @@ A feature-rich Android application designed to help Turkish students prepare for
 - 📱 **Performance Optimization** - Reducing app size and improving loading times
 - 🧪 **Testing** - Implementing comprehensive unit and integration tests
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sehmusacar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ## 🤝 Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/sehmusacar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/sehmusacar">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:contact.sehmusacar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
