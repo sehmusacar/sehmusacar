@@ -11,7 +11,7 @@
 - 👯 I'm looking to collaborate on **mobile app projects** and **open source initiatives**
 - 💬 Ask me about **Android, Kotlin, Firebase, Mobile UI/UX**
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sehmusacar) | [Email](mailto:contact.sehmusacar@gmail.com)
-- ⚡ Fun fact: I love creating educational apps that help students succeed in their exams!
+- ⚡ Fun fact: I love creating educational apps that help students succeed in their exams
 
 ## 🛠️ Tech Stack
 
